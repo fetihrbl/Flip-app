@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Coin from "./Coin";
 import "./FlipCoin.css";
 
-// defaultCoins burada tanımlanmalı
 const defaultCoins = [
     {
         side: "head",
